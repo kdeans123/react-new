@@ -4,7 +4,7 @@ import Title from "./components/Title"
 
 function App() {
   return (
-    <div>
+    <div className="todo">
       <Title></Title>
       <Todo></Todo>
       <Todo></Todo>
