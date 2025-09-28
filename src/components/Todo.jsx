@@ -1,7 +1,10 @@
 function Todo() {
-    return (
-        <div>Todo</div>
-    )
+  return (
+    <div>
+      <h2>Finish FES</h2>
+      <button>DELETE</button>
+    </div>
+  );
 }
 
-export default Todo
+export default Todo;
